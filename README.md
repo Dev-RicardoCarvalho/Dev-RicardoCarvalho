@@ -1,4 +1,22 @@
-## Hi there 👋
+**Olá! Seja Bem Vindo ao meu Github !**
+# Quem sou eu? 
+Me chamo Ricardo de Carvalho, mas sou conhecido apenas como Ricardo ! 
+# Momento de Carreira. 
+Atualmente estou em transição de carreira e sou um Dev e formação cursando Ciências da Computação ! 
+# Experiencia Profissional
+Com mais de 12 anos de experiência profissional, meu trabalho foi pautado em análise operacional e desenvolvimento de estratégias que otimizam processos e garantem eficiência. No Itaú Unibanco, concentrei esforços em combater fraudes, criar indicadores e automatizar tarefas, sempre com compromisso em oferecer soluções práticas e seguras. Motivado por desafios, meu objetivo é agregar valor ao time, aplicando habilidades como liderança, colaboração e excelência no uso do Microsoft Excel. 
+
+No Itaú Unibanco, atuei em conferência documental, análise de fraudes e elaboração de estratégias para otimizar o tratamento de cheques. Além disso, foquei na automação de processos para aumentar a produtividade da equipe. Essa experiência consolidou minha capacidade de lidar com problemas complexos e de implementar melhorias que beneficiam toda a organização.
+
+# ⚡Quem sou eu em apenas uma frase?
+Um jovem com a experiencia de seus 40 anos de vida e com a vontade e a curiosidade de estar aprendendo coisas de uma criança de 10 anos.
+## Contatos:
+<div>
+<a href="https://instagram.com/ricardo.dcarvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/Wixuraxo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:@rccarvalho.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/ricardo-carvalho-9669961a8" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <!--
 **Dev-RicardoCarvalho/Dev-RicardoCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
