@@ -1,6 +1,10 @@
 **Olá! Seja Bem Vindo ao meu Github !**
 # Quem sou eu? 
-Me chamo Ricardo de Carvalho, mas sou conhecido apenas como Ricardo ! 
+Me chamo Ricardo de Carvalho, mas sou conhecido apenas como Ricardo !
+
+Sou um profissional apaixonado por Tecnologia da Informação, movido pela curiosidade e pelo desejo constante de aprender. Tenho facilidade em me adaptar a novas ferramentas e tendências do mercado, mantendo-me sempre atualizado e em busca de evolução.
+
+Acredito que cada desafio representa uma oportunidade de crescimento, e gosto de transformar problemas em soluções criativas e eficazes. Minha motivação está em unir aprendizado contínuo, inovação e dedicação para gerar resultados de impacto.
 # Momento de Carreira. 
 Atualmente estou em transição de carreira e sou um Dev e formação cursando Ciências da Computação ! 
 # Experiencia Profissional
