@@ -1,13 +1,13 @@
 **Olá! Seja Bem Vindo ao meu Github !**
-# Quem sou eu? 
+# 🔭 Quem sou eu? 
 Me chamo Ricardo de Carvalho, mas sou conhecido apenas como Ricardo !
 
 Sou um profissional apaixonado por Tecnologia da Informação, movido pela curiosidade e pelo desejo constante de aprender. Tenho facilidade em me adaptar a novas ferramentas e tendências do mercado, mantendo-me sempre atualizado e em busca de evolução.
 
 Acredito que cada desafio representa uma oportunidade de crescimento, e gosto de transformar problemas em soluções criativas e eficazes. Minha motivação está em unir aprendizado contínuo, inovação e dedicação para gerar resultados de impacto.
-# Momento de Carreira. 
+# 🚀 Momento de Carreira. 
 Atualmente estou em transição de carreira e sou um Dev e formação cursando Ciências da Computação ! 
-# Experiencia Profissional
+# 🏢 Experiência Profissional
 Com mais de 12 anos de experiência profissional, meu trabalho foi pautado em análise operacional e desenvolvimento de estratégias que otimizam processos e garantem eficiência. No Itaú Unibanco, concentrei esforços em combater fraudes, criar indicadores e automatizar tarefas, sempre com compromisso em oferecer soluções práticas e seguras. Motivado por desafios, meu objetivo é agregar valor ao time, aplicando habilidades como liderança, colaboração e excelência no uso do Microsoft Excel. 
 
 No Itaú Unibanco, atuei em conferência documental, análise de fraudes e elaboração de estratégias para otimizar o tratamento de cheques. Além disso, foquei na automação de processos para aumentar a produtividade da equipe. Essa experiência consolidou minha capacidade de lidar com problemas complexos e de implementar melhorias que beneficiam toda a organização.
