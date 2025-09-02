@@ -1,4 +1,4 @@
-**Olá! Seja Bem Vindo ao meu Github !**
+# <center>**Olá! Seja Bem Vindo ao meu Github !**</center>
 # 🔭 Quem sou eu? 
 Me chamo Ricardo de Carvalho, mas sou conhecido apenas como Ricardo !
 
